@@ -1,4 +1,4 @@
 # static-exported-wp-testsite
 A demo of the Simply Static plugin on a clone of a WIP NMA WP Site
 
-[View Demo](htttps://kccnma.github.io/static-exported-wp-testsite)
+[View Demo](https://kccnma.github.io/static-exported-wp-testsite)
