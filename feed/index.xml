@@ -5,39 +5,30 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>nma-clone1</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Sat, 19 Dec 2020 02:36:27 +0000</lastBuildDate>
+	<title>KCC New Media Arts</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Animation and Interface Design</description>
+	<lastBuildDate>Fri, 17 Sep 2021 23:18:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
-	<item>
-		<title>Hello world!</title>
-		<link>./../hello-world/index.html</link>
-					<comments>./../hello-world/index.html#comments</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 19 Dec 2020 02:36:27 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://box5558/cgi/addon_GT.cgi?s=GT::WP::Install::EIG+%28egargiul%29+-+10.0.87.64+%5BWordpress%3b+/var/hp/common/lib/Wordpress.pm%3b+294%3b+Hosting::gap_call%5D/?p=1</guid>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>./../hello-world/feed/index.html</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-	</channel>
+<image>
+	<url>https://i1.wp.com/kccnma.site/wp-content/uploads/cropped-nma-logo-v4a-color-1.png?fit=32%2C32&#038;ssl=1</url>
+	<title>KCC New Media Arts</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">187054569</site></channel>
 </rss>
